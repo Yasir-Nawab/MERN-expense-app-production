@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b91b976a.css",
+    "main.js": "/static/js/main.7a217ec3.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/expense-signup.jpg": "/static/media/expense-signup.3763f70dbe1f2a8d73e0.jpg",
+    "static/media/expense-login.jpg": "/static/media/expense-login.d7dbc85d61dafb2ad241.jpg",
+    "index.html": "/index.html",
+    "main.b91b976a.css.map": "/static/css/main.b91b976a.css.map",
+    "main.7a217ec3.js.map": "/static/js/main.7a217ec3.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b91b976a.css",
+    "static/js/main.7a217ec3.js"
+  ]
+}
